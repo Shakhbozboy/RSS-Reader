@@ -27,3 +27,7 @@ as well as this:
 ```
 > rss_reader ...
 ```
+How to install 
+```
+> pip3 install -e .
+```
