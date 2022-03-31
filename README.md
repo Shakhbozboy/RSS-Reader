@@ -16,3 +16,13 @@ optional arguments:
   --limit LIMIT  Limit news topics if this parameter provided
 
 ```
+
+```
+> python rss_reader.py ...
+```
+
+as well as this:  
+
+```
+> rss_reader ...
+```
